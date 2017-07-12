@@ -6,7 +6,7 @@ import com.example.pandas.base.BaseActivity;
 
 public class PersonalCenterActivite extends BaseActivity {
 
-//
+
     @Override
     public int getLayoutId() {
         return R.layout.activity_personalcenter;
