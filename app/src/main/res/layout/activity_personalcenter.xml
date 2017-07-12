@@ -140,7 +140,7 @@
 
         <View
             android:layout_width="match_parent"
-            android:layout_height="@dimen/y10"
+            android:layout_height="@dimen/y11"
             android:background="@color/gray"></View>
 
 
@@ -174,10 +174,6 @@
 
                 />
         </LinearLayout>
-
-
-
-
 
     </LinearLayout>
 
